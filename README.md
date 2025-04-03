@@ -1,4 +1,14 @@
 # App Behavoir Analysis
+## Context
+Today, many companies have a mobile presence. They provide their services and products free in their mobile applications in an attempt to transitions their customers to a paid membership like youtube premium, pandora premium.
+Based on the budget the companies need how much it will pay? as marketing efforts are never free. These companies need to know exactly who to target with offers and promotions.
+
+<b>Market :</b> the target audience is customers who use a company free products ( the users who installed the app with the free feature)
+
+<b>Products :</b> The paid membership often provides enhanced versions of the free product.
+
+<b>Goal :</b> The objective of the needed model is to predict which users will not subscribe to the paid membership, So greater marketing efforts can go into trying to convert them to paid users.
+
 ## Overview
 A Power BI dashboard providing insights into App behavior analysis using data from Nov. 2012 to Dec. 2013. Visuals include User Engagement, Screen Interacting, User Demographics, Feature Usage, User Onboarding, and User Feedback. App behavior analysis to track key metrics, App performance, and support strategic decision-making.
 ## Key Features

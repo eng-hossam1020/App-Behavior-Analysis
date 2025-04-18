@@ -19,7 +19,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 - <b> User Onboarding: </b> Visualize Enrollment Conversion Funnel,Timing difference,Users Subscription Timing, and Enrollment Timing.
 - <b> User Feedback: </b> Measure user metrics, behavioral insights, and timing differences.
   
-## Visual Included
+## Visuals Summary
 
 ![Image](https://github.com/user-attachments/assets/13abb4ba-a6d1-4e52-bb1a-10b4773af5d1)
 

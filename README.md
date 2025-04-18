@@ -43,7 +43,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * <b>Session Details</b> (Premium percentage & Mini-Game Usage rate & Satisfaction rate & Enrolled percentage).
 * <b>User Subscription</b> (User subscription by month).
 
-![Image](https://github.com/user-attachments/assets/1f32861e-77e8-4e70-bb10-0ca120835764)
+![Image](https://github.com/user-attachments/assets/5e8dd3ad-277c-4d0c-ad4e-90ae312a9e54)
 
 #### 3. Screen Interaction
 * <b>Screen List Analysis</b> (The Best 5 Viewed Screens & The Best 5 Interacted Screens & Average Interacted Screens by Premium Feature Users & Average Interacted Screens by Enrolled Users).

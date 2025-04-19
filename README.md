@@ -90,7 +90,7 @@ The relationships between different data tables are established to create a comp
 
 ![Image](https://github.com/user-attachments/assets/ccb5385b-d8a4-4bc5-be2d-56da4e002e07)
 
-These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into App behavior analysis and performance metrics.
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights and performance metrics into App behavior analysis.
 
 
 
